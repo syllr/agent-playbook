@@ -159,7 +159,7 @@ async function listSkills(category) {
     core: ['commit-helper', 'code-reviewer', 'debugger', 'refactoring-specialist'],
     docs: ['documentation-engineer', 'api-documenter', 'test-automator', 'qa-expert'],
     architecture: ['api-designer', 'security-auditor', 'performance-engineer', 'deployment-engineer'],
-    planning: ['prd-planner', 'prd-implementation-precheck', 'architecting-solutions', 'planning-with-files', 'self-improving-prd']
+    planning: ['prd-planner', 'prd-implementation-precheck', 'architecting-solutions', 'planning-with-files', 'long-task-coordinator']
   };
 
   for (const entry of entries) {
