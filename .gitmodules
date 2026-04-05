@@ -1,0 +1,3 @@
+[submodule "srllyskills"]
+	path = srllyskills
+	url = git@github.com:syllr/skills.git
